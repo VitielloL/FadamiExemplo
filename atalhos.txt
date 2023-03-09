@@ -6,3 +6,5 @@ para enviar codigo para o repositorio
 git add .
 git commit -m "e o nome do commit"
 git push
+
+git checkout nomedabranch
